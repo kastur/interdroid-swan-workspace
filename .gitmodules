@@ -1,0 +1,30 @@
+[submodule "ContextDroid"]
+	path = ContextDroid
+	url = git@github.com:interdroid/ContextDroid
+[submodule "ContextDroidTest"]
+	path = ContextDroidTest
+	url = git@github.com:interdroid/ContextDroidTest
+[submodule "interdroid-util"]
+	path = interdroid-util
+	url = git@github.com:interdroid/interdroid-util
+[submodule "slf4android"]
+	path = slf4android
+	url = git@github.com:interdroid/slf4android
+[submodule "vdb"]
+	path = vdb
+	url = git@github.com:interdroid/interdroid-vdb
+[submodule "vdb-avro"]
+	path = vdb-avro
+	url = git@github.com:interdroid/interdroid-vdb-avro
+[submodule "vdb-ui"]
+	path = vdb-ui
+	url = git@github.com:interdroid/interdroid-vdb-ui
+[submodule "smartsockets"]
+	path = smartsockets
+	url = git@github.com:interdroid/smartsockets
+[submodule "ibis-ipl"]
+	path = ibis-ipl
+	url = git@github.com:interdroid/ibis-ipl
+[submodule "jgit"]
+	path = jgit
+	url = https://github.com/eclipse/jgit.git
