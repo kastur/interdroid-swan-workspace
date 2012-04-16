@@ -1,8 +1,8 @@
-Getting Started With ContextDroid
+Getting Started With SWAN
 ---------------------------------
 
 This document is intended to help you get started with working with 
-ContextDroid in Eclipse.
+SWAN in Eclipse.
 
 First you will need Eclipse and the Android SDK, as well as git to
 fetch the source with. Installing these is beyond the scope of this
@@ -11,16 +11,16 @@ document, but we recommend reading this:
 http://developer.android.com/sdk/installing.html
 
 Second you will need all the required projects in your Eclipse workspace.
-The easiest way to accomplish this is to checkout this ContextDroidProject
+The easiest way to accomplish this is to checkout this SWAN Project
 repository as your Eclipse workspace.
 
-> git clone http://github.com/interdroid/ContextDroidWorkspace.git
+> git clone http://github.com/interdroid/interdroid-swan-workspace.git
 
 Next you will need to have git checkout all the subprojects and set them
 up properly. The easiest way to do this is run setup.sh contained in the
 raven project.
 
-> cd ContextDroidWorkspace
+> cd interdroid-swan-workspace
 > ./setup.sh
 
 This will checkout and initialize all subprojects.
@@ -39,10 +39,10 @@ Now you can open Eclipse and import the various required projects.
 
 3) Click the Add... button
 
-4) Select the ContextDroidWorkspace directory, check "Look for nested
+4) Select the interdroid-swan-workspace directory, check "Look for nested
 repositories" and press "Search" This will find several repositories.
 
-5) Uncheck ContextDroidWorkspace/.git (which is the first item in the
+5) Uncheck interdroid-swan-workspace/.git (which is the first item in the
 list) and hit OK
 
 6) Now select slf4android, Press Next twice and then Finish.
@@ -77,4 +77,4 @@ list) and hit OK
     to trigger the android library update process again.
 
 Now you should be able to deploy the vdb-ui application onto an emulator
-or a phone, followed by the ContextDroid application itself.
+or a phone, followed by the SWAN application itself.
