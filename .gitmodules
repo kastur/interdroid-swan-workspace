@@ -1,30 +1,30 @@
 [submodule "interdroid-util"]
 	path = interdroid-util
-	url = git@github.com:interdroid/interdroid-util
+	url = https://github.com/kastur/interdroid-util
 [submodule "slf4android"]
 	path = slf4android
-	url = git@github.com:interdroid/slf4android
+	url = https://github.com/kastur/slf4android
 [submodule "vdb"]
 	path = vdb
-	url = git@github.com:interdroid/interdroid-vdb
+	url = https://github.com/kastur/interdroid-vdb
 [submodule "vdb-avro"]
 	path = vdb-avro
-	url = git@github.com:interdroid/interdroid-vdb-avro
+	url = https://github.com/kastur/interdroid-vdb-avro
 [submodule "vdb-ui"]
 	path = vdb-ui
-	url = git@github.com:interdroid/interdroid-vdb-ui
+	url = https://github.com/kastur/interdroid-vdb-ui
 [submodule "smartsockets"]
 	path = smartsockets
-	url = git@github.com:interdroid/smartsockets
+	url = https://github.com/kastur/interdroid-smartsockets
 [submodule "ibis-ipl"]
 	path = ibis-ipl
-	url = git@github.com:interdroid/ibis-ipl
+	url = https://github.com/kastur/interdroid-ibis-ipl.git
 [submodule "jgit"]
 	path = jgit
 	url = https://github.com/eclipse/jgit.git
 [submodule "swan"]
 	path = swan
-	url = git@github.com:interdroid/interdroid-swan
+	url = https://github.com/kastur/interdroid-swan
 [submodule "swan-test"]
 	path = swan-test
-	url = git@github.com:interdroid/interdroid-swan-test
+	url = https://github.com/kastur/interdroid-swan-test
